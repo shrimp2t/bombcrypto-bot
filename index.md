@@ -1,14 +1,57 @@
-## Bombcrypto Bot
+# Bombcrypto Bot
+
 This bot auto playing game https://bombcrypto.io/
 
-### Features:
- - Auto login
- - Auto connect your wallet
- - Auto send heroes to works  x seconds
- - Auto playing game x seconds
+## Features:
+
+- Auto login.
+- Auto connect your wallet.
+- Auto send heroes to works  x seconds.
+- Auto playing game x seconds.
+- **Support multiple accounts**.
+- Only send hero with green stamina to works.
+- No virus Guaranteed.
+- No installation required.
+- Support 24/7.
+
+## TELEGRAM
+
+Group: [https://t.me/bombcrypto_pro_bot](https://t.me/safoxz)
+
+Contact: [https://t.me/safoxz](https://t.me/safoxz)
+
+## Pricing
+
+### 7 Days
+- 1 Bombcrypto account:    5 USDT / 7 days
+- 5 Bombcrypto accounts:   23 USDT / 7 days
+- 10 Bombcrypto accounts:  45 USDT / 7 days
+- 20 Bombcrypto accounts:  90 USDT / 7 days
+
+### Monthly
+- 1 Bombcrypto account:    20 USDT / Month
+- 5 Bombcrypto accounts:   80 USDT / Month
+- 10 Bombcrypto accounts:  150 USDT / Month
+- 20 Bombcrypto accounts:  350 USDT / Month
+
+### Lifetime
+- UNLIMITED Bombcrypto accounts for litime:  699 USDT.
+- Python Script 999 UST for live time.
+
+## How to buy ?
+1. Send USDT to address `0xc81f092464828aa1d7830f96076cf8e0e4f26044`
+1. Contact me on Telegram https://t.me/safoxz to get license key.
+
+## How to use ?
+Please setup your MetaMask wallet and login game before following steps below:
+
+ 1. [Download Bot here](https://drive.google.com/drive/folders/1l3Vdm6zGxD_ALL-A9tVjkyAlwMjgLqZo?usp=sharing)
+ 1. Unzip file.
+ 1. Open file config.yaml with text editor.
+ 1. Replace text `replace_your_license_key_here` with your License key and save.
+ 1. Click to file bot-vxxxx.exe to run.
+
+ Note: When the bot is running please do not use your mouse and keyborad. DON'T Change any window positions.
 
 
-### TELEGRAM
-  Group: https://t.me/bombcrypto_pro_bot
-  
-  Contact: https://t.me/safoxz
+ 
