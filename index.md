@@ -62,6 +62,9 @@ Please setup your MetaMask wallet and login game before following steps below:
  
 ## Troubleshooting
 
+THE BOT WORKS WITH GOOGLE CHROME ONLY. ALL LANGUAGE MUST BE ENGLISH INCLUDE METAMASK.
+
+
 If you want to use default play game URL https://app.bombcrypto.io/
 
 Please install extension stylebot for chrome
