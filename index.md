@@ -56,6 +56,38 @@ Please setup your MetaMask wallet and login game before following steps below:
  1. Click to file bot-vxxxx.exe to run.
 
  Note: When the bot is running please do not use your mouse and keyboard. DON'T Change any window positions.
+ 
+ 
+## Troubleshooting
+
+If you don't want to use play game URL https://app.bombcrypto.io/
+
+Please install extension stylebot for chrome
+[https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha/related?hl=en](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha/related?hl=en)
+
+And paste this code to tab `<>code`
+See: [https://stylebot.dev/help/#code](https://stylebot.dev/help/#code)
+
+```css
+.background {
+  display: none;
+}
+.game-play {
+  position: relative;
+  top: 0px;
+  left: 0;
+  margin: 0;
+  border: 0px;
+}
+body {
+  background: #fff;
+}
+```
+
+
+
+ 
+ 
 
 
  
