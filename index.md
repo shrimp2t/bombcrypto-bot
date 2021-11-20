@@ -12,8 +12,9 @@ This bot auto playing game https://bombcrypto.io/
 - No installation required.
 - Support 24/7.
 
+## Video Demo
+[![BoombCripto Video](https://img.youtube.com/vi/IAkxOPSRcnk/0.jpg)](https://www.youtube.com/watch?v=IAkxOPSRcnk)
 
-https://youtu.be/IAkxOPSRcnk
 
 ## TELEGRAM
 
