@@ -2,12 +2,13 @@
 
 This bot auto playing game https://bombcrypto.io/
 ## Features:
+- No config required.
 - Auto login.
-- Auto connect your wallet.
+- Auto reconnect your wallet.
 - Auto send heroes to works  x seconds.
 - Auto playing game x seconds.
 - **Support multiple accounts**.
-- Only send hero with green stamina to works.
+- Only send heroes with green stamina to works.
 - No virus Guaranteed.
 - No installation required.
 - Support 24/7.
