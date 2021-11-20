@@ -1,9 +1,7 @@
 # Bombcrypto Bot
 
 This bot auto playing game https://bombcrypto.io/
-
 ## Features:
-
 - Auto login.
 - Auto connect your wallet.
 - Auto send heroes to works  x seconds.
@@ -13,6 +11,9 @@ This bot auto playing game https://bombcrypto.io/
 - No virus Guaranteed.
 - No installation required.
 - Support 24/7.
+
+
+https://youtu.be/IAkxOPSRcnk
 
 ## TELEGRAM
 
