@@ -61,7 +61,7 @@ Please setup your MetaMask wallet and login game before following steps below:
  
 ## Troubleshooting
 
-If you don't want to use play game URL https://app.bombcrypto.io/
+If you want to use default play game URL https://app.bombcrypto.io/
 
 Please install extension stylebot for chrome
 [https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha/related?hl=en](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha/related?hl=en)
