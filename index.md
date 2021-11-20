@@ -38,7 +38,7 @@ Contact: [https://t.me/safoxz](https://t.me/safoxz)
 
 ### Lifetime
 - UNLIMITED Bombcrypto accounts for lifetime:  699 USDT.
-- Python Script 999 UST for lifetime.
+- Python Script 999 USDT for lifetime.
 
 ## How to buy ?
 1. Send USDT to address `0xc81f092464828aa1d7830f96076cf8e0e4f26044`
