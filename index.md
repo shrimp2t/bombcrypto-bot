@@ -62,7 +62,10 @@ Please setup your MetaMask wallet and login game before following steps below:
  
 ## Troubleshooting
 
-THE BOT WORKS WITH GOOGLE CHROME ONLY. ALL LANGUAGE MUST BE ENGLISH INCLUDE METAMASK.
+- THE BOT WORKS WITH GOOGLE CHROME ONLY. ALL LANGUAGE MUST BE ENGLISH INCLUDE METAMASK.
+- Ensure Chrome sets the zoom level to 100% (press `CRT +0` to reset)
+- Ensure your arre activated playing tab.
+- Close all chrome profiles which not playing game.
 
 
 If you want to use default play game URL https://app.bombcrypto.io/
