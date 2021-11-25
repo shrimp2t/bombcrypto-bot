@@ -42,8 +42,8 @@ Contact: [https://t.me/safoxz](https://t.me/safoxz)
 - Python Script 999 USDT for lifetime.
 
 ## How to buy ?
-1. Send USDT to address `0xc81f092464828aa1d7830f96076cf8e0e4f26044`
-1. Contact me on Telegram https://t.me/safoxz to get a license key.
+1. Send USDT to address **`0xc81f092464828aa1d7830f96076cf8e0e4f26044`**
+1. Contact me on Telegram [https://t.me/safoxz](https://t.me/safoxz) to get a license key.
 
 ## How to use ?
 
@@ -54,7 +54,7 @@ Please setup your MetaMask wallet and login game before following steps below:
  1. [Download Bot here](https://drive.google.com/drive/folders/1l3Vdm6zGxD_ALL-A9tVjkyAlwMjgLqZo?usp=sharing)
  1. Unzip file.
  1. Open file license.txt with text editor.
- 1. Replace text `replace_your_license_key_here` with your License key and save.
+ 1. Replace text **`replace_your_license_key_here`** with your License key and save.
  1. Click to file bot-vxxxx.exe to run.
 
  Note: When the bot is running please do not use your mouse and keyboard. DON'T Change any window positions.
