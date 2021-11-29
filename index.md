@@ -90,6 +90,12 @@ See: [https://stylebot.dev/help/#code](https://stylebot.dev/help/#code)
 body {
   background: #fff;
 }
+
+#unity-container.unity-desktop {
+  top: 0px;
+  left: 50%;
+  transform: translate(-50%,0%); 
+}
 ```
 
 
